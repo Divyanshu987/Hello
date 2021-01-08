@@ -48,7 +48,7 @@ val = s.substring(0, 5);
 val = s.split('');
 
 
-
+console.log("This is a change")
 // ARRAYS - Store multiple values in a variable
 const numbers = [1,2,3,4,5];
 const fruits = ['apples', 'oranges', 'pears', 'grapes'];
